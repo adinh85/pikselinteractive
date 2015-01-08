@@ -1,12 +1,6 @@
 {
-  "name": "jquery",
-  "version": "0.0.0",
-  "description": "jQuery",
-  "main": "gruntfile.js",
-  "scripts": {
-    "test": "serve"
-  },
-  "author": "",
+  "name": "piksel-interactive",
+  "version": "0.1.0",
   "license": "ISC",
   "devDependencies": {
     "grunt": "^0.4.5",
