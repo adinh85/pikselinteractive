@@ -1,6 +1,12 @@
 {
-  "name": "piksel-interactive",
+  "name": "pikselinteractive",
   "version": "0.1.0",
+  "description": "pikselinteractive",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "serve"
+  },
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "grunt": "^0.4.5",
